@@ -1,4 +1,3 @@
-
 <h1 align="center">Pokedex App</h1>
   <p align="center">
   <strong>React pokemon card game app.</strong>
