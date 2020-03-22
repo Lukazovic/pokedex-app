@@ -1,3 +1,7 @@
+.Pokedex {
+  text-align: center;
+}
+
 .Pokedex-card {
   display: flex;
   justify-content: space-evenly;
